@@ -249,6 +249,10 @@ a:focus {
     padding-top: 100px;
 }
 
+.trollitup {
+    background-color: #0099CC;
+}
+
 .download-section {
     width: 100%;
     padding: 50px 0;
@@ -307,7 +311,60 @@ span.description {
     float:left;
     width:33%;
 }
-
+#preview{
+    color:#EEEEEE;
+}
+#center_preview{
+    height:300px;
+    width:980px;
+    margin:0 auto;
+    background: url(images/wave.png) ;
+}
+.topic{
+    background: url(images/topic.png) repeat;
+    width:400px;
+    float:left;
+    font-size: 13px;
+    margin:40px 10px 10px 10px;
+    border: 1px solid #444;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+#topic{
+    background: url(images/topic.png) repeat;
+    font-size: 13px;
+    margin:auto;
+    border: 1px solid #444;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+h2{
+    margin-top:3px;
+}
+#topic1{
+    background: url(images/topic.png) repeat;
+    width:300px;
+    float:left;
+    font-size: 13px;
+    margin:40px 10px 10px 10px;
+    border: 1px solid #444;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+#topic h2{
+    margin:auto;
+}
+#topic p{
+    padding: 5px 10px 10px 10px;
+    line-height: 20px;
+}
+#topic a{
+    color:#FFFFFF;
+    font-weight: bold;
+}
 .wrk {
     color: #FFF;
     width:250px;
