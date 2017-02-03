@@ -3,7 +3,9 @@ body {
 	text-align: center;
 }
 
-
+html {
+    position: fixed;
+}
 h1 {
     font-family: Copperplate,Copperplate Gothic Light,fantasy; 
     margin-top: 0;
@@ -41,5 +43,5 @@ footer {
     height: 2.25em;
 }
 .icon:hover {
-    opacity: 0.66;
+    opacity: 0.5;
 }
