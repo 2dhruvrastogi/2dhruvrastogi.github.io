@@ -4,9 +4,16 @@ body {
 }
 
 
-header {
-	margin-top: 10%;
+h1 {
     font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+    margin-top: 0;
+}
+
+h2 {
+    margin-top: 10%;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+    font-size: 20px;
+    color: #808080;
 }
 
 p {
