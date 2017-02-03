@@ -1,0 +1,38 @@
+body {
+	font-family: 'sans-serif';
+	text-align: center;
+}
+
+
+header {
+	margin-top: 10%;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+}
+
+p {
+    padding-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: monospace;
+}
+
+footer {
+    text-align: center;
+    bottom: 0px;
+    font-family: monospace;
+    color: #808080;
+}
+
+.title {
+	letter-spacing: 2px;
+	font-size: 48px;
+	font-weight: 300;
+}
+
+.icon {
+    width: 2.25em;
+    height: 2.25em;
+}
+.icon:hover {
+    opacity: 0.66;
+}
