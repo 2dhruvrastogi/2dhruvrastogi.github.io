@@ -1,11 +1,10 @@
 body {
 	font-family: 'sans-serif';
 	text-align: center;
-}
-
-html {
     position: fixed;
 }
+
+
 h1 {
     font-family: Copperplate,Copperplate Gothic Light,fantasy; 
     margin-top: 0;
